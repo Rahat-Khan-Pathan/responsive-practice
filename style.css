@@ -440,7 +440,7 @@ body {
 }
 
 /* media query  */
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .container {
         padding: 0 50px;
     }
